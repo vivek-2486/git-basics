@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("First sec");
+    printf("First sec third");
 return 0;
 }
